@@ -7,8 +7,7 @@ class Dog
   def name
     @name
   end
-  binding.pry
-  
-
+ def name=(new_name)
+@name = new_name
 
 end
