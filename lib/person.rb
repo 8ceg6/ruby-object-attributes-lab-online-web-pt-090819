@@ -1,5 +1,5 @@
 class Person
-def job = (jo
+def job = (job)
 end 
 
 
