@@ -1,2 +1,7 @@
-clsss Dog 
-def 
+class Dog 
+  
+  
+  
+
+
+end
