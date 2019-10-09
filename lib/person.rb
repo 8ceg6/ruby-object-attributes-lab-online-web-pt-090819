@@ -1,6 +1,6 @@
 class Person
-def job = (job)
-  @job= job
+def job = (jo
+end 
 
 
 
